@@ -165,3 +165,12 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
 }
+### OUTPUT:
+<img width="1203" height="644" alt="image" src="https://github.com/user-attachments/assets/34a171c7-75c8-43ef-b7d4-0efadb9af8a7" />
+
+<img width="1600" height="791" alt="WhatsApp Image 2026-06-09 at 5 07 21 PM" src="https://github.com/user-attachments/assets/68fa8be9-8f5e-4ad6-9040-cc2af186a0af" />
+
+### RESULT:
+Thus,the Spring Boot application that performs CRUD (Create, Read, Update, Delete) operations on a Student entity using Spring Data JPA (Hibernate) was implemented and executed successfully.
+
+
